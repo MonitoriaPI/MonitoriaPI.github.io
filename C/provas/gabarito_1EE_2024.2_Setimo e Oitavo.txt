@@ -1,0 +1,45 @@
+// Questão 07
+
+int main()
+{
+   int soma = 0;
+   int m = 10, n = m *10;
+
+   for (int i = m; i <= n; i++)
+    soma = soma + i;
+
+   printf("Somatorio = %d", soma);
+}
+
+*************************
+
+// Questão 08
+
+int main(){
+   float x = 0, y = 0;
+   char op;
+
+   printf("Digite o primeiro numero: ");
+   scanf("%f", &x);
+   printf("Digite o segundo numero: ");
+   scanf("%f", &y);
+   fflush(stdin);
+   printf("Escolha a operacao aritmetica: +, -, /, *\n");
+   op = getche();
+   switch(op) {
+      case '+':
+         printf("%.2f", x+y);
+         break;
+      case '-':
+         printf("%.2f", x-y);
+         break;
+      case '*':
+         printf("%.2f", x*y);
+         break;
+      case '/':
+         printf("%.2f", x/y);
+         break;
+      default:
+         printf("Operacao inexistente!\n");
+   }
+}
