@@ -1,5 +1,5 @@
 <div align="center">
- <h1>🚀 Monitoria de Programação Imperativa: Linguagem C 🚀</h1>
+ <h1>🚀 Monitoria de Programação Imperativa: C 🚀</h1>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
