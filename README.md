@@ -23,6 +23,14 @@
 Bem-vindo(a) à nossa incrível jornada pelo universo da programação em C! 
 Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiros e dominar os segredos das estruturas de dados! 💻✨
 
+## 📚 Conteúdo
+ * [Cronograma de Aventuras](#-cronograma-de-aventuras)
+ * [Materiais Recomendados](#-materiais-recomendados)
+ * [Exercícios para Treinar](#️-exercícios-para-treinar)
+ * [Avaliações Anteriores](#-avaliações-anteriores)
+ * [Recursos Adicionais](#-recursos-adicionais)
+ * [Contato e Horário das Monitorias](#-contato-e-horário-das-monitorias)
+
 ## 📆 Cronograma de Aventuras
 
 | Aula | Tema | Slide |
@@ -40,13 +48,29 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 ## 📚 Materiais Recomendados
 
-- [Linguagem C](C/material/)
-- [Biblioteca GTK](GTK/material)
+### Linguagem C
 
-## 🏋️‍♀️ Exercícios para Treinar
+*   [Material Teórico](C/material/) - Conceitos e fundamentos da linguagem C.
+*   [Slides das Aulas](C/slides/) - Apresentações utilizadas durante as aulas.
+
+### Biblioteca GTK
+
+*   [Documentação](GTK/material) - Referência completa da biblioteca GTK.
+*   [Exemplos de Código](GTK/exemplos/) - Demonstrações práticas de uso da GTK.
+
+### Exercícios
+
+*   [Lista de Exercícios](C/exercicios/) - Desafios para praticar a programação em C.
+*   [Exercícios Resolvidos](C/exercicios/resolvidos/) - Soluções comentadas para auxiliar no aprendizado.
+
+## 🏋️‍♀️ Exercícios e Ferramentas
 
 Quanto mais você pratica, mais forte fica! 💪
 
+- [IDE Codeblocks](https://www.codeblocks.org/)
+- [IDE Clion](https://www.jetbrains.com/pt-br/clion/)
+- [Visual Studio Code - Editor de texto](https://code.visualstudio.com/)
+- [Compilador de C Online](https://www.onlinegdb.com/online_c_compiler)
 - [Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf)
 
 ## 📝 Avaliações Anteriores
@@ -70,7 +94,7 @@ Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 * **Monitores:** [Gabriel Borges](https://github.com/devgabrielsborges) e [Pedro Nicholas](https://github.com/Agiliis)
 * **Grupo da Monitoria:** [Whatsapp](https://web.whatsapp.com/)
 * **Horários:**
-  * Segunda-feira: 14h - 16h
+  * A definir
 
 ## 🎮 Dica da Semana
 
@@ -80,4 +104,4 @@ Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 
 ⭐ Não se esqueça de dar uma estrela no nosso repositório! ⭐
 
-Última atualização: 06 de março de 2025
+Última atualização: 10 de março de 2025
