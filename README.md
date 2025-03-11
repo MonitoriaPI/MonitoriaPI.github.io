@@ -79,7 +79,6 @@ Prepare-se para as batalhas futuras estudando as batalhas passadas! 🗡️
 
 | Prova | Ano |
 |:-----:|:---:|
-
 | [🧪 1EE 2024.2](C/provas/1EE_ProgramacaoImperativa_2024.2_gabarito.pdf) | 2024 |
 
 ## 📚 Recursos Adicionais
