@@ -73,14 +73,16 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ## 📚 Recursos Adicionais
 
 ### Provas passadas
+
 | Prova | Ano |
 |:-----:|:---:|
 | [🧪 1EE 2024.2](C/provas/1EE_ProgramacaoImperativa_2024.2_gabarito.pdf) | 2024 |
 
 ### Listas de exercícios
+
 | Lista |
 |:----:|
-[Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf)
+| [Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf) |
 
 ### Links adicionais
 - [c-faq](https://c-faq.com/)
