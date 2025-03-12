@@ -26,9 +26,12 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ## 📚 Conteúdo
  * [Cronograma de Aventuras](#-cronograma-de-aventuras)
  * [Materiais Recomendados](#-materiais-recomendados)
- * [Exercícios para Treinar](#️-exercícios-para-treinar)
- * [Avaliações Anteriores](#-avaliações-anteriores)
+   * [Linguagem C](#linguagem-c)
+   * [Biblioteca GTK](#biblioteca-gtk)
  * [Recursos Adicionais](#-recursos-adicionais)
+   * [Provas passadas](#provas-passadas)
+   * [Listas de exercícios](#listas-de-exercícios)
+   * [Links adicionais](#links-adicionais)
  * [Contato e Horário das Monitorias](#-contato-e-horário-das-monitorias)
 
 ## 📆 Cronograma de Aventuras
@@ -50,48 +53,48 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 ### Linguagem C
 
-*   [Material Teórico](C/material/) - Conceitos e fundamentos da linguagem C.
-*   [Slides das Aulas](C/slides/) - Apresentações utilizadas durante as aulas.
+- [IDE Codeblocks](https://www.codeblocks.org/)
+  - IDE utilizada pelo professor ao longo do curso
+- [Visual Studio Code](https://code.visualstudio.com/)
+  - Editor de texto com terminal integrado e suporte a vários plug-ins
+- [Compilador de C Online](https://www.onlinegdb.com/online_c_compiler)
+  - Acompanha um terminal interativo e entrada de texto. Requer internet
+- [Curso de linguagem C: WR Kits](https://youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob&si=nFLfWwRoP5NCFAO6)
+  - Curso em vídeo em português (o canal possui foco em sistemas embarcados, mas o curso se limita a sintaxe de C)
+- [Manual do iniciante em C: freeCodeCamp](https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/)
+  - Explicações de várias funcionalidades com sumário
 
 ### Biblioteca GTK
 
-*   [Documentação](GTK/material) - Referência completa da biblioteca GTK.
-*   [Exemplos de Código](GTK/exemplos/) - Demonstrações práticas de uso da GTK.
+- [Site oficial do Projeto GTK](https://www.gtk.org/)
+- [Instalação do GTK em Windows e Linux](TODO) (em produção)
+- [Curso em vídeo](TODO) (em produção)
 
-### Exercícios
+## 📚 Recursos Adicionais
 
-*   [Lista de Exercícios](C/exercicios/) - Desafios para praticar a programação em C.
-*   [Exercícios Resolvidos](C/exercicios/resolvidos/) - Soluções comentadas para auxiliar no aprendizado.
-
-## 🏋️‍♀️ Exercícios e Ferramentas
-
-Quanto mais você pratica, mais forte fica! 💪
-
-- [IDE Codeblocks](https://www.codeblocks.org/)
-- [IDE Clion](https://www.jetbrains.com/pt-br/clion/)
-- [Visual Studio Code - Editor de texto](https://code.visualstudio.com/)
-- [Compilador de C Online](https://www.onlinegdb.com/online_c_compiler)
-- [Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf)
-
-## 📝 Avaliações Anteriores
-
-Prepare-se para as batalhas futuras estudando as batalhas passadas! 🗡️
-
+### Provas passadas
 | Prova | Ano |
 |:-----:|:---:|
 | [🧪 1EE 2024.2](C/provas/1EE_ProgramacaoImperativa_2024.2_gabarito.pdf) | 2024 |
 
-## 📚 Recursos Adicionais
+### Listas de exercícios
+| Lista |
+|:----:|
+[Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf)
 
-* [📖 Bibliografia Recomendada](resources/bibliography.md) - Livros e artigos para aprofundar
-* [🔗 Links Úteis](resources/useful_links.md) - Sites, tutoriais e ferramentas online
+### Links adicionais
+- [c-faq](https://c-faq.com/)
+  - Repositório de perguntas frequentes a linguagem C (em inglês)
+- [Projetos passados](TODO) (em produção)
+  - Um conjunto de projetos de períodos anteriores para a cadeira de PI
+- [Tutorial CMake](https://youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s&si=5fdpDelj5UqIv0tk)
+  - Curso em vídeo de CMake - útil para gerenciamento de projetos em equipe e compilação cross-plataform (em inglês)
 
 ## 💬 Contato e Horário das Monitorias
 
 Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 
-* **Monitores:** [Gabriel Borges](https://github.com/devgabrielsborges) e [Pedro Nicholas](https://github.com/Agiliis)
-* **Grupo da Monitoria:** [Whatsapp](https://web.whatsapp.com/)
+* **Grupo da Monitoria:** [Whatsapp](https://chat.whatsapp.com/FNWwPFXgu2FHm5A8wJHXYC)
 * **Horários:**
   * A definir
 
