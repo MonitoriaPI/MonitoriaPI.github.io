@@ -20,11 +20,11 @@
 </div>
 
 <br><br>
-Bem-vindo(a) à nossa incrível jornada pelo universo da programação em C! 
+Bem-vindo(a) à nossa jornada pelo universo da programação em C! 
 Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiros e dominar os segredos das estruturas de dados! 💻✨
 
 ## 📚 Conteúdo
- * [Cronograma](#-cronograma-de-aventuras)
+ * [Cronograma](#-cronograma)
  * [Materiais Recomendados](#-materiais-recomendados)
    * [Linguagem C](#linguagem-c)
    * [Biblioteca GTK](#biblioteca-gtk)
@@ -55,6 +55,8 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 - [IDE Codeblocks](https://www.codeblocks.org/)
   - IDE utilizada pelo professor ao longo do curso
+- [Clion](https://www.jetbrains.com/pt-br/clion/)
+  - IDE da Jetbrains para desenvolvimento em C e C++  
 - [Visual Studio Code](https://code.visualstudio.com/)
   - Editor de texto com terminal integrado e suporte a vários plug-ins
 - [Compilador de C Online](https://www.onlinegdb.com/online_c_compiler)
@@ -68,8 +70,10 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 - [Site oficial do Projeto GTK](https://www.gtk.org/)
 - [Instalacao do GTK no Linux](GTK/gtk-linux.md)
-- [Instalação do GTK em Windows](TODO) (em produção)
-- [Curso em vídeo](TODO) (em produção)
+<!-- TODO -->
+- [Instalação do GTK em Windows](#-cronograma) (em produção)
+<!-- TODO -->
+- [Curso em vídeo](#-cronograma) (em produção)
 
 ## 📚 Recursos Adicionais
 
@@ -88,7 +92,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ### Links adicionais
 - [c-faq](https://c-faq.com/)
   - Repositório de perguntas frequentes a linguagem C (em inglês)
-- [Projetos passados](TODO) (em produção)
+- [Projetos passados](/GTK/projects.md)
   - Um conjunto de projetos de períodos anteriores para a cadeira de PI
 - [Tutorial CMake](https://youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s&si=5fdpDelj5UqIv0tk)
   - Curso em vídeo de CMake - útil para gerenciamento de projetos em equipe e compilação cross-plataform (em inglês)
@@ -108,4 +112,4 @@ Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 
 ⭐ Não se esqueça de dar uma estrela no nosso repositório! ⭐
 
-Última atualização: 10 de março de 2025
+Última atualização: 18 de março de 2025
