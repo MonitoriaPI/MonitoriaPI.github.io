@@ -38,16 +38,16 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 | Aula | Tema | Slide |
 |:------:|:----:|:-----:|
-| 1 | Introdução à programação imperativa | [Aula 1](C/material/Apresentação%20Introdução%20à%20Programação%20Imperativa.pdf) |
-| 2 | Modularização de programas (Dividir para Conquistar, Bibliotecas definidas pelo usuário) | [Aula 2](C/material/Introdução%20à%20Linguagem%20de%20Programação%20C.pdf) |
-| 3 | Noções de procedimentos | [Aula 3](C/material/Conceitos%20Fundamentais%20de%20Programação%20Imperativa.pdf) |
-| 4 | Entrada e saída de dados | [Aula 4](C/material/Conceitos%20Fundamentais%20(parte%202).pdf) |
-| 5 | Ponteiros | [Aula 5](C/material/Tipos%20de%20Dados%20Especiais%20em%20C.pdf) |
-| 6 | Recursividade | [Aula 6](C/material/Estruturas%20Condicionais%20e%20de%20Repetição.pdf) |
-| 7 | Alocação dinâmica de memória | [Aula 7](C/material/Pré-processamento.pdf) |
-| 8 | Estruturas triviais de dados: vetores, matrizes e registros | [Aula 8](C/material/Tipos%20Avançados%20de%20Dados.pdf) |
-| 9 | Noções de estrutura compostas de dados | [Aula 9](C/material/Manipulação%20de%20Endereços%20(Ponteiros).pdf) |
-| 10 | Manipulação de arquivos | [Aula 10](C/material/Arquivos.pdf) |
+| 1 | Apresentação, Introdução à Programação Imperativa | [Aula 1](C/material/Apresentação%20Introdução%20à%20Programação%20Imperativa.pdf) |
+| 2 | Introdução à Linguagem de Programação C | [Aula 2](C/material/Introdução%20à%20Linguagem%20de%20Programação%20C.pdf) |
+| 3.1 | Conceitos Fundamentais de Programação Imperativa | [Aula 3.1](C/material/Conceitos%20Fundamentais%20de%20Programação%20Imperativa.pdf) |
+| 3.2 | Conceitos Fundamentais de Programação Imperativa parte 2| [Aula 3.2](C/material/Conceitos%20Fundamentais%20(parte%202).pdf) |
+| 4 | Tipos de Dados Especiais em C | [Aula 5](C/material/Tipos%20de%20Dados%20Especiais%20em%20C.pdf) |
+| 5 | Estruturas Condicionais e de Repetição | [Aula 6](C/material/Estruturas%20Condicionais%20e%20de%20Repetição.pdf) |
+| 6 | Pré-processamento | [Aula 7](C/material/Pré-processamento.pdf) |
+| 7 | Tipos Avançados de Dados | [Aula 8](C/material/Tipos%20Avançados%20de%20Dados.pdf) |
+| 8 | Ponteiros | [Aula 9](C/material/Manipulação%20de%20Endereços%20(Ponteiros).pdf) |
+| 9 | Manipulação de arquivos | [Aula 10](C/material/Arquivos.pdf) |
 
 ## 📚 Materiais Recomendados
 
