@@ -24,7 +24,7 @@ Bem-vindo(a) à nossa incrível jornada pelo universo da programação em C!
 Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiros e dominar os segredos das estruturas de dados! 💻✨
 
 ## 📚 Conteúdo
- * [Cronograma de Aventuras](#-cronograma-de-aventuras)
+ * [Cronograma](#-cronograma-de-aventuras)
  * [Materiais Recomendados](#-materiais-recomendados)
    * [Linguagem C](#linguagem-c)
    * [Biblioteca GTK](#biblioteca-gtk)
@@ -34,7 +34,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
    * [Links adicionais](#links-adicionais)
  * [Contato e Horário das Monitorias](#-contato-e-horário-das-monitorias)
 
-## 📆 Cronograma de Aventuras
+## 📆 Cronograma
 
 | Aula | Tema | Slide |
 |:------:|:----:|:-----:|
@@ -67,7 +67,8 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ### Biblioteca GTK
 
 - [Site oficial do Projeto GTK](https://www.gtk.org/)
-- [Instalação do GTK em Windows e Linux](TODO) (em produção)
+- [Instalacao do GTK no Linux](GTK/gtk-linux.md)
+- [Instalação do GTK em Windows](TODO) (em produção)
 - [Curso em vídeo](TODO) (em produção)
 
 ## 📚 Recursos Adicionais
@@ -98,7 +99,6 @@ Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 
 * **Grupo da Monitoria:** [Whatsapp](https://chat.whatsapp.com/FNWwPFXgu2FHm5A8wJHXYC)
 * **Horários:**
-  * A definir
 
 ## 🎮 Dica da Semana
 
