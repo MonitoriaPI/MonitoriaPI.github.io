@@ -50,7 +50,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 | 9 | Manipulação de arquivos | [Aula 10](C/material/Arquivos.pdf) |
 
 - [Link Classroom](https://classroom.google.com/c/NzYwMzc1MTYwMTc0?cjc=ycgwyb6)
-- [Plano de Ensino](C/material/PI_PlanoDeAulas_2025.1_Hemir.pdf)
+- [Plano de Aulas](C/material/PI_PlanoDeAulas_2025.1_Hemir.pdf)
 
 ## 📚 Materiais Recomendados
 
