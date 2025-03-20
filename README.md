@@ -72,7 +72,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ### Biblioteca GTK
 
 - [Site oficial do Projeto GTK](https://www.gtk.org/)
-- [Instalacao do GTK no Linux](GTK/gtk-linux.md)
+- [Instalação do GTK no Linux](GTK/gtk-linux.md)
 <!-- TODO -->
 - [Instalação do GTK em Windows](#-cronograma) (em produção)
 <!-- TODO -->
