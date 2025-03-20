@@ -90,7 +90,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 | Lista |
 |:----:|
-| [Lista de exercicios 2](C/exercicios/ListaDeExercicios#2.pdf) |
+| [Lista de exercicios 2](C/exercicios/ListaDeExercicios_2.pdf) |
 
 ### Links adicionais
 - [c-faq](https://c-faq.com/)
@@ -105,7 +105,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 Está com dúvidas? Não se preocupe! Estamos aqui para ajudar! 🦸‍♂️
 
 * **Grupo da Monitoria:** [Whatsapp](https://chat.whatsapp.com/FNWwPFXgu2FHm5A8wJHXYC)
-* **Horários:**
+* **Horários:** Quarta, 18:00 h (caso necessário, podem requisitar mais horários)
 
 ## 🎮 Dica da Semana
 
