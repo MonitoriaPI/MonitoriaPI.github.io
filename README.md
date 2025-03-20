@@ -49,6 +49,9 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 | 8 | Ponteiros | [Aula 9](C/material/Manipulação%20de%20Endereços%20(Ponteiros).pdf) |
 | 9 | Manipulação de arquivos | [Aula 10](C/material/Arquivos.pdf) |
 
+- [Link Classroom](https://classroom.google.com/c/NzYwMzc1MTYwMTc0?cjc=ycgwyb6)
+- [Plano de Ensino](C/material/PI_PlanoDeAulas_2025.1_Hemir.pdf)
+
 ## 📚 Materiais Recomendados
 
 ### Linguagem C
