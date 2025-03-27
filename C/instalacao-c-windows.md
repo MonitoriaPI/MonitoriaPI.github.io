@@ -1,4 +1,4 @@
-# Instalação do MinGW (compilador GCC) no windows
+# Instalação do MinGW (compilador GCC + gerenciador de pacotes MSYS2) no windows
 
 Para transformar seu código-fonte .c em um arquivo executável .exe, faz-se uso de um compilador. No Windows, isso é possível através do MinGW, um pacote de utilidades que contém, dentre outras coisas, o compilador GCC e a biblioteca padrão da linguagem C
 
