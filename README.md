@@ -56,7 +56,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 ### Linguagem C
 
-- [Instalação do compilador GCC no Windows(C/instalacao-c-windows.md)
+- [Instalação do compilador GCC no Windows](C/instalacao-c-windows.md)
 - [Codeblocks](https://www.codeblocks.org/)
   - IDE utilizada pelo professor ao longo do curso
 - [Clion](https://www.jetbrains.com/pt-br/clion/)
