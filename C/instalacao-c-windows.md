@@ -31,7 +31,8 @@ sudo apt install gcc
 (Comandos com o predicado `sudo` requerem usuário e senha para serem executados)
 
 Informações adicionais  
-- [Instalar o WSL | Microsoft Learn](https://learn.microsoft.com/pt-br/windows/wsl/install)
+
+- [Instalar o WSL \| Microsoft Learn](https://learn.microsoft.com/pt-br/windows/wsl/install)
 - [Como instalar o WSL2 no Windows 10/11 - Linux e Windows Lado a Lado para Iniciantes](https://youtu.be/qlLcnSvG1rA?si=--V6bfTcMoPeYivS) (vídeo)
 
 ### Integração com VS Code
