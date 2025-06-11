@@ -73,6 +73,9 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 ### Biblioteca GTK
 
 - [Site oficial do Projeto GTK](https://www.gtk.org/)
+- [Documentação GTK4](https://docs.gtk.org/gtk4/)
+- [Galeria de widgets GTK4](https://docs.gtk.org/gtk4/visual_index.html)
+- [TAREFASES: Um programa de tarefas para demonstração de funcionalidades básicas do GTK](https://github.com/MonitoriaPI/Tarefases)
 - [Instalação do GTK no Linux](GTK/gtk-linux.md)
 <!-- TODO -->
 - [Instalação do GTK em Windows](GTK/gtk-windows.md) (em produção)
