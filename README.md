@@ -56,7 +56,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 
 ### Linguagem C
 
-- [Guia de instalação do MinGW (compilador GCC + gerenciador de pacotes MSYS2) no windows](C/instalacao-c-windows.md)
+- [Instalação do compilador GCC no Windows(C/instalacao-c-windows.md)
 - [Codeblocks](https://www.codeblocks.org/)
   - IDE utilizada pelo professor ao longo do curso
 - [Clion](https://www.jetbrains.com/pt-br/clion/)
@@ -77,8 +77,7 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 - [Galeria de widgets GTK4](https://docs.gtk.org/gtk4/visual_index.html)
 - [TAREFASES: Um programa de tarefas para demonstração de funcionalidades básicas do GTK](https://github.com/MonitoriaPI/Tarefases)
 - [Instalação do GTK no Linux](GTK/gtk-linux.md)
-<!-- TODO -->
-- [Instalação do GTK em Windows](GTK/gtk-windows.md) (em produção)
+- [Instalação do GTK + CMake + Glade no Windows](GTK/gtk-win/gtk-win.md)
 <!-- TODO -->
 - [Curso em vídeo](#-cronograma) (em produção)
 
