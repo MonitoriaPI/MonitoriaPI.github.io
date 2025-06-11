@@ -3,7 +3,7 @@
 A instalação da biblioteca GTK no Windows pode ser feita através do [MSYS2](#msys2) ou através do [WSL](#wsl)
 
 ## MSYS2
-Esse método permite a compilação de aplicações GTK diretamente para executáveis de Windows. Entretanto, também tende a ser mais complicada po ser necessário fazer a inclusão manual das pastas dos binários no PATH. Além do mais, esse é apenas um sistema de compatibilidade, tendo em vista que a biblioteca GTK foi projetada para funcionar em programas UNIX.
+Esse método permite a compilação de aplicações GTK diretamente para executáveis de Windows. Entretanto, também tende a ser mais complicada por ser necessário fazer a inclusão manual das pastas dos binários no PATH. Além do mais, esse é apenas um sistema de compatibilidade, tendo em vista que a biblioteca GTK foi projetada para funcionar em programas UNIX.
 
 O processo será feito para utilização na IDE CLion, que já possui uma versão do CMake junto de seus arquivos - uma ferramenta essencial para o desenvolvimento futuro.
 
@@ -13,7 +13,7 @@ O processo será feito para utilização na IDE CLion, que já possui uma versã
     ```  
     Isso instalará as bibliotecas GTK4 e o programa Glade.
 
-2. Certifique-se que `C:\msys64\ucrt64\bin`, `C:\msys64\usr\bin` e `C:\msys64\mingw64\bin` estejam no PATH no sistema (pode rever como fazer isso na seção de [Instalação do compilador GCC no Windows](MonitoriaPI.github.io/C/instalacao-c-windows.md))
+2. Certifique-se que `C:\msys64\ucrt64\bin`, `C:\msys64\usr\bin` e `C:\msys64\mingw64\bin` estejam no PATH no sistema (pode rever como fazer isso na seção de [Instalação do compilador GCC no Windows](/C/instalacao-c-windows.md))
 
 3. Dentro do seu projeto de executável em C no CLion, abra as configurações (<b>Ctrl+Alt+S</b>), pesquise por <b>Toolchains</b>, adicione uma nova toolchain do tipo System (<b>Alt+Ins</b>, recomendo renomeá-la para MSYS2), e na opção do compilador C, selecione o caminho do gcc (provavelmente será `C:\msys64\ucrt\bin\gcc.exe`).
 
