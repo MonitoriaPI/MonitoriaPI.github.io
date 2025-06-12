@@ -23,6 +23,8 @@
 Bem-vindo(a) à nossa jornada pelo universo da programação em C! 
 Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiros e dominar os segredos das estruturas de dados! 💻✨
 
+**Repositório da Monitoria:** [github.com/MonitoriaPI](https://github.com/MonitoriaPI)
+
 ## 📚 Conteúdo
  * [Cronograma](#-cronograma)
  * [Materiais Recomendados](#-materiais-recomendados)
