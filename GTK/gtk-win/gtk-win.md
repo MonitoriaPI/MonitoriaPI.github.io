@@ -9,13 +9,13 @@ O processo será feito para utilização na IDE CLion, que já possui uma versã
 
 1. Abra o MSYS2_UCRT64 e digite o seguinte comando  
     ```
-    pacman -S mingw-w64-ucrt-x86_64-gtk4 mingw-w64-x86_64-glade
+    pacman -S mingw-w64-ucrt-x86_64-gtk4 mingw-w64-x86_64-glade mingw-w64-x86_64-cmake mingw-w64-x86_64-ninja
     ```  
-    Isso instalará as bibliotecas GTK4 e o programa Glade.
+   Isso instalará as bibliotecas GTK4, o programa Glade, e o CMake mais o sistema de build Ninja (a instalação do CMake é necessária caso não deseje fazer o projeto dentro de uma IDE).
 
-2. Certifique-se que `C:\msys64\ucrt64\bin`, `C:\msys64\usr\bin` e `C:\msys64\mingw64\bin` estejam no PATH no sistema (pode rever como fazer isso na seção de [Instalação do compilador GCC no Windows](/C/instalacao-c-windows.md))
+3. Certifique-se que `C:\msys64\ucrt64\bin`, `C:\msys64\usr\bin` e `C:\msys64\mingw64\bin` estejam no PATH no sistema (pode rever como fazer isso na seção de [Instalação do compilador GCC no Windows](/C/instalacao-c-windows.md))
 
-3. Dentro do seu projeto de executável em C no CLion, abra as configurações (<b>Ctrl+Alt+S</b>), pesquise por <b>Toolchains</b>, adicione uma nova toolchain do tipo System (<b>Alt+Ins</b>, recomendo renomeá-la para MSYS2), e na opção do compilador C, selecione o caminho do gcc (provavelmente será `C:\msys64\ucrt\bin\gcc.exe`).
+4. Dentro do seu projeto de executável em C no CLion, abra as configurações (<b>Ctrl+Alt+S</b>), pesquise por <b>Toolchains</b>, adicione uma nova toolchain do tipo System (<b>Alt+Ins</b>, recomendo renomeá-la para MSYS2), e na opção do compilador C, selecione o caminho do gcc (provavelmente será `C:\msys64\ucrt\bin\gcc.exe`).
 
     Depois, pesquise por <b>CMake</b>, mude a Toolchain para a que acabou de ser criada e clique em <b>Apply</b>.
 
