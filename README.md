@@ -77,11 +77,10 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 - [Site oficial do Projeto GTK](https://www.gtk.org/)
 - [Documentação GTK4](https://docs.gtk.org/gtk4/)
 - [Galeria de widgets GTK4](https://docs.gtk.org/gtk4/visual_index.html)
-- [TAREFASES: Um programa de tarefas para demonstração de funcionalidades básicas do GTK](https://github.com/MonitoriaPI/Tarefases)
 - [Instalação do GTK no Linux](GTK/gtk-linux.md)
 - [Instalação do GTK + CMake + Glade no Windows](GTK/gtk-win/gtk-win.md)
-<!-- TODO -->
-- [Curso em vídeo](#-cronograma) (em produção)
+- [TAREFASES: Um programa de tarefas para demonstração de funcionalidades básicas do GTK](https://github.com/MonitoriaPI/Tarefases)
+- [MonitoriaPI com GTK - curso em vídeo](https://www.youtube.com/playlist?list=PLuyT5K1TTKHz34vAk_37qIWPvoYTcBG1k) (em produção)
 
 ## 📚 Recursos Adicionais
 
