@@ -97,6 +97,8 @@ Aqui você encontrará tudo que precisa para se tornar um(a) mestre dos ponteiro
 | [Lista de exercicios 2](C/exercicios/ListaDeExercicios_2.pdf) |
 
 ### Links adicionais
+- [cppreference](https://www.cppreference.com/w/c.html)
+  - Referência de bibliotecas e funcionalidades acompanhadas no compilador padrão de C
 - [c-faq](https://c-faq.com/)
   - Repositório de perguntas frequentes a linguagem C (em inglês)
 - [Projetos passados](/GTK/projects.md)
