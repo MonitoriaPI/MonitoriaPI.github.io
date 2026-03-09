@@ -6,7 +6,7 @@ Compiladores são programas especiais que fornecem um arquivo executável a part
 
 ## MinGW
 
-MinGW é uma série de ferramentas (Toolchain) para desenvolvimento e compilação de projetos C nativamente no Windows. Algumas IDEs possuem uma versão junto de sua instalação, e seus binários podem ser baixados manualmente [aqui]().  
+MinGW é uma série de ferramentas (Toolchain) para desenvolvimento e compilação de projetos C nativamente no Windows. Algumas IDEs possuem uma versão junto de sua instalação, e seus binários podem ser baixados manualmente [aqui](https://sourceforge.net/projects/mingw-w64/).  
 Entretanto, é extremamente recomendado que sua instalação seja feita por meio de um gerenciador de pacotes. Aqui, escolhemos utilizar o MSYS2, gerenciador que ainda será utilizado novamente para o projeto de interface gráfica.
 
 [Instalação do compilador C/C++ com MinGw64/msys2 no Windows | EQE-044](https://youtu.be/ShPPSwpClPc?si=FRaOlj9jwK5PfmTm) - Esse vídeo mostra o passo a passo para a instalação do MSYS2 e do MinGW. Alguns detalhes para se atentar:
